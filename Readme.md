@@ -28,10 +28,10 @@ Because of various issues, the Goblin Map mod for Elden Ring cannot be used dire
 3. gorey666在[评论中](https://www.nexusmods.com/eldenring/mods/3091?tab=posts)发布如下：
    For those of you too lazy or too confused on how to merge the regulation.bin for the latest update, I updated mine (tested and working) and now sharing it with you:
    [Updated regulation.bin file](https://drive.google.com/file/d/1h1kFdvRmtbAh0fAxWhhdqX17VCKScv-T/view)
+    对于那些太懒或太困惑如何合并regulatory.bin以获取最新更新的人，我更新了我的（经过测试和工作），现在与您分享：
 
-   将哥布林地图1.09版附带的regulation.bin文件替换为上述链接中的文件。
    Replace the regulation.bin file that comes with Map for Goblins 1.09 with the one from the link above.
-
+   将哥布林地图1.09版附带的regulation.bin文件替换为上述链接中的文件。
 ---
 
 希望此整合包能让大家更方便地享受艾尔登法环中的哥布林地图。如果有任何问题或建议，请随时反馈。
