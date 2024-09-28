@@ -21,6 +21,14 @@ Because of various issues, the Goblin Map mod for Elden Ring cannot be used dire
 5. 在赐福处休息，配置地图。
    Rest at a Site of Grace to configure the map.
 
+## 帮助我/help me
+
+由于我并非一直关注该mod的最新情况，所以文件很容易过时而我未能及时更新。
+Because I don't always pay attention to the latest situation of this mod, the file is easily out of date and I can't update it in time.
+
+如果有帮助到你，我很高兴，如果你发现文件有需要完善的地方请发邮件联系我（zut177@hotmail.com），帮助我改进。
+If it helps you, I am very happy. If you find that the document needs to be improved, please contact me by email (zut177@hotmail.com) to help me improve it.
+
 ## 整合资源 / Integrated Resources:
 
 1. [哥布林地图英文版n网地址 / Goblin Map English Version on Nexus Mods](https://www.nexusmods.com/eldenring/mods/3091?tab=files)
